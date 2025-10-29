@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.ipynb_checkpoints
+
+# Env
+.env
+.venv/
+env/
+venv/
+.idea/
+*.swp
+
+# System
+.DS_Store
+Thumbs.db
